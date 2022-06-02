@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2022 韩沛龙
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: new-longz7z8 #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 816e1039cc69ce08d229
+  clientSecret: 6506b24c3aad20afae2b202e58476f3b8a0d831d
+  repo: longz7z8new2.github.io
+  owner: longz7z8new2
   proxy:
 
 # 输入Google Analytics web tracking code
