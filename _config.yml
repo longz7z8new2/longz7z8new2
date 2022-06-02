@@ -81,7 +81,6 @@ gitalk:
   clientSecret: 6506b24c3aad20afae2b202e58476f3b8a0d831d
   repo: longz7z8new2.github.io
   owner: longz7z8new2
-  proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
