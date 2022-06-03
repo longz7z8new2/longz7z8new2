@@ -40,12 +40,12 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: 旧版
-    url: https://www.longz7z8.com.cn
   - name: 软件
     url: https://app-win.longz7z8.com.cn
   - name: 绘本
     url: https://www.longz7z8.com.cn/%E8%AF%BB%E8%80%85%E4%BC%9A.html
+  - name: 旧版
+    url: https://www.longz7z8.com.cn
 
 # 每页的文章数
 paginate: 8
