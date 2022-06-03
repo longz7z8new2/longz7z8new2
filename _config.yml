@@ -42,6 +42,10 @@ navigation:
     url: /tags
   - name: 旧版
     url: https://www.longz7z8.com.cn
+  - name: 资源分享站
+    url: https://app-win.longz7z8.com.cn
+  - name: 绘本读者会
+    url: https://www.longz7z8.com.cn/%E8%AF%BB%E8%80%85%E4%BC%9A.html
 
 # 每页的文章数
 paginate: 8
