@@ -40,6 +40,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+  - name: 旧版
+    url: https://www.longz7z8.com.cn
 
 # 每页的文章数
 paginate: 8
