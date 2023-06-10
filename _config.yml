@@ -54,7 +54,7 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance:  # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: qqlong@longz7z8.com.cn #youremailaddress@mail.com
+  email: han121010@yeah.net #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: longz7z8 #https://github.com/<>
@@ -75,14 +75,14 @@ footer-text: Copyright (c) 2022 韩沛龙
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: new-longz7z8 #shortname
+disqus: #new-longz7z8 #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 84ee05da91da868d15a7
+  clientSecret: 936f36bf538ea5311450e642a46e9adbe086cd5c
+  repo: longz7z8new2.github.io
+  owner: longz7z8
   proxy: 
 
 # 输入Google Analytics web tracking code
