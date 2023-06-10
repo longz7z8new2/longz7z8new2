@@ -79,8 +79,8 @@ disqus: #new-longz7z8 #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 84ee05da91da868d15a7
-  clientSecret: 936f36bf538ea5311450e642a46e9adbe086cd5c
+  clientID: bde00a2b40bf7f572896
+  clientSecret: 587ce1d996b0be2d13d37cafb178428c115a314f
   repo: longz7z8new2.github.io
   owner: longz7z8
   proxy: 
