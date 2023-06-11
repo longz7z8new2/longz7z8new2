@@ -24,7 +24,7 @@ comments: true
 
 ## 下载方法
 
-百度网盘(文件夹): https://pan.baidu.com/s/18mOSwQyiFOV3qdW5JMpEoA?pwd=jt77
+百度网盘(文件夹): [https://pan.baidu.com/s/18mOSwQyiFOV3qdW5JMpEoA?pwd=jt77](https://pan.baidu.com/s/18mOSwQyiFOV3qdW5JMpEoA?pwd=jt77)
 
 由于文件整体过大，暂时还没有其他下载方法，抱歉。
 
