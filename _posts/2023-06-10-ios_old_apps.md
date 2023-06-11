@@ -2,7 +2,7 @@
 layout: post
 title: iOS旧版软件分享
 date: 2023-06-10
-Author: 韩沛龙
+author: 韩沛龙
 categories: 
 tags: [ios, document]
 
